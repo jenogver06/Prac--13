@@ -1,0 +1,31 @@
+body {
+    background-color: peachpuff;
+}
+
+header {
+    color:saddlebrown;
+    text-align:center;
+    font-weight: bold;
+}
+
+p {
+    color:saddlebrown;
+}
+
+img.carta {
+    float:left;
+    width: 150px;
+    margin-left: 150px;
+}
+
+img.taza {
+    float:center;
+    width: 150px;
+    margin-top: 200px;
+}
+
+img.contacto {
+    float: right;
+    width: 150px;
+    margin-top: 300px;
+}
