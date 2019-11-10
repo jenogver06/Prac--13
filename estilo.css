@@ -12,48 +12,26 @@ p {
     color:saddlebrown;
 }
 
-div.la Carta {
-    margin: 5px;
-    border: 1px;
-    float: left;
+p.a {
+    text-align: left;
 }
 
-div.La Carta a {
-    font-weight: left;
-    padding-left: 150px;
+p.b {
+    text-align: center;
 }
 
-div.carta img {
-     font-weight: left;
-     margin-left: 150px;
-     float: left;
-     width: 150px;
+p.c {
+    text-align: right;
 }
 
-div.cafe {
-     margin: 5px;
-     border: 1px;
-     float: center;
+a {
+    color: blue;
 }
 
-div.taza img {
-    font-weight:top;
-    float: top;
-    width: 150px;
-    margin-right:100px;
+p.red {
+    color:sienna;
 }
 
-div.El café a {
-    font-weight: center;
-    padding-top: 100px;
-}
-
-div.contacto {
-    margin: 5px;
-}
-div.contacto img{
-    font-weight: right;
-    width: 150px;
-    float:right;
-    
+address {
+    color:sienna;
 }
